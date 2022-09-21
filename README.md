@@ -1,7 +1,7 @@
 
 [![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/005/611/079/small_2x/businessman-designing-a-website-by-coding-on-a-desktop-computer-images-for-web-banners-free-vector.jpg)](https://github.com/lingabo)
 <h1 align="center">Hi 👋, I'm Lingabo</h1>
-<h3 align="center">A passionate Frontend and Backend stack developer from Congo-Kinshasa</h3>
+<h3 align="center">A passionate Frontend and Backend developer from Congo-Kinshasa</h3>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU " width="400" alt="image coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingabo&label=Profile%20views&color=0e75b6&style=flat" alt="lingabo" /> </p>
