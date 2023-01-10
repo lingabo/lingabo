@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Html,CSS,Javascript**
 
-- 📫 How to reach me **lingabojunior@gmail.com**
+- 📫 How to reach me **lingabo.junior@sendmorenow.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
