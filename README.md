@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **react**
 
 - 💬 Ask me about **Html,CSS,Javascript**
-
+- 📫 How to reach me **(https://portfolio-lingabo-junior.netlify.app/)**
 - 📫 How to reach me **lingabo.junior@sendmorenow.com**
 
 <h3 align="left">Connect with me:</h3>
