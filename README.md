@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Html,CSS,Javascript**
 - 📫 How to reach me **(https://portfolio-lingabo-junior.netlify.app/)**
-- 📫 How to reach me **lingabo.junior@sendmorenow.com**
+- 📫 How to reach me **lingabojunior@gmail.com.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
